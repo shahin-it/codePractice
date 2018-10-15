@@ -1,0 +1,6 @@
+.exe
+.o
+.class
+/classes
+/build
+/.idea
